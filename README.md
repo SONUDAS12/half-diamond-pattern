@@ -1,0 +1,1 @@
+# half-diamond-pattern
